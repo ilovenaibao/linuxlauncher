@@ -1,0 +1,4 @@
+cd2usb 0.4.4
+7-Zip 4.65
+wget 1.5.3.1
+syslinux 3.75

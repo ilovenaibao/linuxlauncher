@@ -1,0 +1,14 @@
+#summary Introducción
+#labels Introducción
+
+= Introducción =
+
+Bienvenido a la página web de Linux Launcher. Este es un programa codificado en MS-DOS. El funcionamiento del programa consiste en descargar las distribuciones Linux desde sus respectivas páginas web y luego guardarlas en la carpeta del programa. 
+
+= Detalles del funcionamiento del programa =
+
+Este programa incluye los siguientes programas para tener el funcionamiento:
+  * *Wget*: para descargar las distribuciones Linux y guardarlas.
+  * *Unzip*: para descomprimir algunas distribuciones Linux que estén comprimidas en archivos ZIP (como en el caso de Haiku OS)
+  * *Qemu*: para emular las distribuciones Linux.
+  * *CD2USB*: programa que permite descargar e instalar Ubuntu en un PenDrive.
