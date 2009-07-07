@@ -1,9 +1,8 @@
 #summary Distribuciones
-#labels Fase-Diseno
 
 = Distribuciones Linux incluidas en el programa =
 
-Las distribuciones Linux incluidas en el programa según la versión 0.6.4 son las siguientes:
+Las distribuciones Linux incluidas en el programa según la versión 1.0.3 son las siguientes:
 
 [http://cesium.di.uminho.pt/pub/backtrack/bt3-final.iso BackTrack 3 Final Release]
 
