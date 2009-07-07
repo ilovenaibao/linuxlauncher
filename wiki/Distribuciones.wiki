@@ -1,4 +1,5 @@
 #summary Distribuciones
+#labels Fase-Design
 
 = Distribuciones Linux incluidas en el programa =
 
@@ -8,16 +9,16 @@ Las distribuciones Linux incluidas en el programa según la versión 0.6.4 son l
 
 [ftp://ibiblio.org/pub/Linux/distributions/damnsmall/current/dsl-4.4.10-initrd.iso Damm Small Linux 4.4.10]
 
-[http://ftp.caliu.cat/pub/distribucions/ubuntu/releases/kubuntu/intrepid/kubuntu-8.10-desktop-i386.iso Kubuntu 8.10]
+[ftp://ftp.rediris.es/sites/releases.ubuntu.com/releases/kubuntu/jaunty/kubuntu-9.04-desktop-i386.iso Kubuntu 9.04]
 
 [http://kolibrios.org/load.cgi?distro/last/kolibri_iso_en.zip Kolibri OS 0.7.5]
 
 [http://nimblex.artjunkie.org/NimbleX-2008.iso NimbleX 2008]
 
-[ftp://ibiblio.org/pub/linux/distributions/puppylinux/puppy-4.2-k2.6.25.16-seamonkey.iso PuppyLinux 4.2 "Deep Trought"]
+[ftp://ibiblio.org/pub/linux/distributions/puppylinux/puppy-4.2.1-k2.6.25.16-seamonkey.iso Puppy Linux 4.2.1]
 
-[http://mirror.slitaz.org/iso/cooking/slitaz-cooking.iso SliTaz Cooking Version]
+[http://mirror.switch.ch/ftp/mirror/slitaz/iso/2.0/slitaz-2.0.iso SliTaz 2.0]
 
-[http://www1.geexbox.org/releases/1.2.1/geexbox-1.2.1-en.i386.glibc.iso GeeXboX 1.2.1]
+[http://www1.geexbox.org/releases/1.2.2/geexbox-1.2.2-en.i386.glibc.iso GeeXboX 1.2.2]
 
-[http://haiku-files.org/raw/index.php?dir=&sort=name&order=desc Haiku OS Alpha Version]
+[http://haiku-files.org/raw/haiku-pre-alpha-r31435-raw.zip Haiku OS Alpha Version r31435]
