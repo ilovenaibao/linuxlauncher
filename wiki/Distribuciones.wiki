@@ -1,5 +1,5 @@
 #summary Distribuciones
-#labels Fase-Design
+#labels Fase-Diseno
 
 = Distribuciones Linux incluidas en el programa =
 
