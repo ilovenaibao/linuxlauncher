@@ -5,7 +5,7 @@
 
 Las distribuciones Linux incluidas en el programa según la versión 1.0.3 son las siguientes:
 
-[http://cesium.di.uminho.pt/pub/backtrack/bt3-final.iso BackTrack 3 Final Release]
+[http://cesium.di.uminho.pt/pub/backtrack/bt3-final.iso BackTrack 3 Final Release], ~ 700 MB
 
 [ftp://ibiblio.org/pub/Linux/distributions/damnsmall/current/dsl-4.4.10-initrd.iso Damm Small Linux 4.4.10], 50,21 MB
 
@@ -21,4 +21,6 @@ Las distribuciones Linux incluidas en el programa según la versión 1.0.3 son l
 
 [http://www1.geexbox.org/releases/1.2.2/geexbox-1.2.2-en.i386.glibc.iso GeeXboX 1.2.2], 18,89 MB
 
-[http://haiku-files.org/raw/haiku-pre-alpha-r31435-raw.zip Haiku OS Alpha Version r31435], ~ 150 MB ZIP, 512 MB
+[http://haiku-files.org/raw/haiku-pre-alpha-r31435-raw.zip Haiku OS Alpha Version r32549], ~ 150 MB ZIP, 512 MB
+
+[http://meos.sourceforge.net/ 2/OS], ~ 25 MB
