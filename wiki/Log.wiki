@@ -27,3 +27,12 @@
  * Limpiado y arreglado más codigo.
  * WGet y UnZip comprimidos con UPX para ahorrar espacio. Si esta opción no va, se revertirá.
  * *Proyecto participará en Scenery Beta 2009*
+
+== V 1.0.4 (21/8/09) ==
+
+ * *Retirada splash de Scenery Beta 2009, dado que los moderadores rechazan el programa.*
+ * Actualizadas distribuciones Linux.
+ * Limpiado y arreglado más codigo.
+ * Añadido 2/OS.
+ * *Actualizado QEMU a 1.0.6* (http://www.nongnu.org/qemu/)
+ * Discos duros nuevos comprimidos con QCOW2, augmenta espacio cuando sea necesario.
