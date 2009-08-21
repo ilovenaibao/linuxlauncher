@@ -11,7 +11,7 @@ Este programa incluye los siguientes programas para tener el funcionamiento:
   * *Wget*: para descargar las distribuciones Linux y guardarlas.
   * *Unzip*: para descomprimir algunas distribuciones Linux que estén comprimidas en archivos ZIP (como en el caso de Haiku OS)
   * *Qemu*: para emular las distribuciones Linux.
-  * *CD2USB*: programa que permite descargar e instalar Ubuntu en un PenDrive.
+  * *CD2USB*: programa que permite descargar e instalar Ubuntu en un !PenDrive.
 
 = Preguntas frecuentes =
 
