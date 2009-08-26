@@ -36,3 +36,12 @@
  * Añadido 2/OS.
  * *Actualizado QEMU a 1.0.6* (http://www.nongnu.org/qemu/)
  * Discos duros nuevos comprimidos con QCOW2, augmenta espacio cuando sea necesario.
+
+== V 1.0.5 (Próxima versión) ==
+
+ * Limpiado y arreglado casi todo el codigo.
+ * Quitados archivos antiguos para ocupar menos espacio.
+ * Ordenado el menú de los programas por orden alfabetico.
+ * Añadido KQemu de QEMU Manager.
+ * Programas un poco mas comprimidos con UPX.
+ * El programa está traducido de nuevo al inglés, por lo que habrán dos versiones en cada idioma.
