@@ -5,22 +5,22 @@
 
 Las distribuciones Linux incluidas en el programa según la versión 1.0.3 son las siguientes:
 
-[http://cesium.di.uminho.pt/pub/backtrack/bt3-final.iso BackTrack 3 Final Release], ~ 700 MB
+[http://cesium.di.uminho.pt/pub/backtrack/bt3-final.iso BackTrack 3 Final Release], ~ 700 MB [http://www.remote-exploit.org/backtrack.html Web]
 
-[ftp://ibiblio.org/pub/Linux/distributions/damnsmall/current/dsl-4.4.10-initrd.iso Damm Small Linux 4.4.10], 50,21 MB
+[ftp://ibiblio.org/pub/Linux/distributions/damnsmall/current/dsl-4.4.10-initrd.iso Damm Small Linux 4.4.10], 50,21 MB [http://www.damnsmalllinux.org/index_es.html Web]
 
-[ftp://ftp.rediris.es/sites/releases.ubuntu.com/releases/kubuntu/jaunty/kubuntu-9.04-desktop-i386.iso Kubuntu 9.04], 695,81 MB
+[ftp://ftp.rediris.es/sites/releases.ubuntu.com/releases/kubuntu/jaunty/kubuntu-9.04-desktop-i386.iso Kubuntu 9.04], 695,81 MB [http://www.kubuntu.org/ Web]
 
-[http://kolibrios.org/load.cgi?distro/last/kolibri_iso_en.zip Kolibri OS 0.7.5], 2,85 MB ZIP, 5 MB
+[http://kolibrios.org/load.cgi?distro/last/kolibri_iso_en.zip Kolibri OS 0.7.5], 2,85 MB ZIP, 5 MB [http://www.kolibrios.org/ Web]
 
-[http://nimblex.artjunkie.org/NimbleX-2008.iso NimbleX 2008]
+[http://nimblex.artjunkie.org/NimbleX-2008.iso NimbleX 2008] [http://www.nimblex.net/ Web]
 
-[ftp://ibiblio.org/pub/linux/distributions/puppylinux/puppy-4.2.1-k2.6.25.16-seamonkey.iso Puppy Linux 4.2.1], 100,24 MB
+[ftp://ibiblio.org/pub/linux/distributions/puppylinux/puppy-4.2.1-k2.6.25.16-seamonkey.iso Puppy Linux 4.2.1], 100,24 MB [http://www.puppylinux.org/ Web]
 
-[http://mirror.switch.ch/ftp/mirror/slitaz/iso/2.0/slitaz-2.0.iso SliTaz 2.0], 29,04 MB
+[http://mirror.switch.ch/ftp/mirror/slitaz/iso/2.0/slitaz-2.0.iso SliTaz 2.0], 29,04 MB [http://www.slitaz.org/ Web]
 
-[http://www1.geexbox.org/releases/1.2.2/geexbox-1.2.2-en.i386.glibc.iso GeeXboX 1.2.2], 18,89 MB
+[http://www1.geexbox.org/releases/1.2.3/geexbox-1.2.3-en.i386.glibc.iso GeeXboX 1.2.3], 18,89 MB [http://geexbox.org/en/index.html Web]
 
-[http://haiku-files.org/raw/haiku-pre-alpha-r31435-raw.zip Haiku OS Alpha Version r32549], ~ 150 MB ZIP, 512 MB
+[http://haiku-files.org/raw/haiku-pre-alpha-r31435-raw.zip Haiku OS Alpha Version r32549], ~ 150 MB ZIP, 512 MB [http://www.haiku-os.org/ Web]
 
-[http://meos.sourceforge.net/ 2/OS], ~ 25 MB
+[http://meos.sourceforge.net/ 2/OS], ~ 25 MB [http://meos.sourceforge.net/ Web]
