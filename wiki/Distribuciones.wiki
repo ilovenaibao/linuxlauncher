@@ -3,7 +3,7 @@
 
 = Distribuciones Linux incluidas en el programa =
 
-Las distribuciones Linux incluidas en el programa según la versión 1.0.3 son las siguientes:
+Las distribuciones Linux incluidas en el programa según la versión 1.0.5 son las siguientes:
 
 [http://cesium.di.uminho.pt/pub/backtrack/bt3-final.iso BackTrack 3 Final Release], ~ 700 MB [http://www.remote-exploit.org/backtrack.html Web]
 
