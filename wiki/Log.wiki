@@ -37,7 +37,7 @@
  * *Actualizado QEMU a 1.0.6* (http://www.nongnu.org/qemu/)
  * Discos duros nuevos comprimidos con QCOW2, augmenta espacio cuando sea necesario.
 
-== V 1.0.5 (Próxima versión) ==
+== V 1.0.5 (10/9/09) ==
 
  * Limpiado y arreglado casi todo el codigo.
  * Quitados archivos antiguos para ocupar menos espacio.
