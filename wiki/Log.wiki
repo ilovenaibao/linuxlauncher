@@ -12,7 +12,7 @@
  * Revisado el programa de nuevo.
  * Terminadas las traducciones al castellano.
  * Haiku OS descargará solo la actualización predefinida, se actualizará cuando haya cambios de versiones.
- * Revertida la versión de WGet y !UnZip, descargada de !GNU (!SourceForge)
+ * Revertida la versión de WGet y !UnZip, descargada de GNU (!SourceForge)
 
 == V 1.0.2 (30/6/09) ==
 
