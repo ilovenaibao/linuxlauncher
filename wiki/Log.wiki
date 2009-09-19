@@ -45,3 +45,11 @@
  * Añadido KQemu de QEMU Manager.
  * Programas un poco mas comprimidos con UPX.
  * El programa está traducido de nuevo al inglés, por lo que habrán dos versiones en cada idioma.
+
+== V 1.0.6 - Solo versión Inglesa (--/9/09) ==
+
+ * Actualizado Haiku OS a R1.
+
+== V 1.0.7 - Próxima versión (--/9/09) ==
+
+ * Añadidas nuevas distribuciones Linux.
